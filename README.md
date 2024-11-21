@@ -1,16 +1,16 @@
 # This is just a Practice project
-to run this project 
-    ## open new terminal
-```
-bash
+## To run this project 
+### open new terminal
+```bash
     cd backend
     npm install
     npm start
 ```
+### open another new terminal
 
-    ## open new terminal
-```
-bash
+
+
+```bash
     cd frontend
     npm install
     npm run dev
