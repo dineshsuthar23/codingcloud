@@ -5,7 +5,6 @@ const schema = mongoose.Schema({
     email: String,
     password: String,
     date: { type: Date, default: Date.now }
-
 })
 
 const User = mongoose.model('user', schema);
